@@ -1,0 +1,3 @@
+## Isabelle temporal files
+*.thy~
+*.thy#
